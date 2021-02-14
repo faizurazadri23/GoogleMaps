@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">TrackingFaizuraZadri</string>
     <string name="title_activity_maps">Map</string>
+    <string name="lat_long_snippet">Latitude: %1$.5f, Longitude: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
 </resources>
